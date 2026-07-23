@@ -13,4 +13,4 @@ This project is part of Machine Learning Exercise 3. It utilizes a trained machi
 - **Scikit-Learn / Joblib** (Model Inference)
 - **Pandas & NumPy** (Data Processing)
 
-🔗 **Live Demo:** [Click here to open the Streamlit App]([https://your-app-name.streamlit.app](https://carsbh.streamlit.app/))
+🔗 **Live Demo:** [Click here to open the Streamlit App](https://carsbh.streamlit.app/))
